@@ -56,7 +56,7 @@ $ npm run server
 
 http://localhost:8080で確認
 
-### 2.打开演示
+###  2.打开演示
 
 ```
 $ 打开。 /index.html
