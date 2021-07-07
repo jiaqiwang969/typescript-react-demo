@@ -19,34 +19,34 @@ https://maechabin.github.io/typescript-react-demo/
 
 ```
 $ git clone git@github.com:maechabin/typescript-react-demo.git typescript-react-demo
-``$ git clone typescript-react-demo
+```
 
-### 进入你克隆Demo的目录，安装必要的软件包。
+### 2. 进入你克隆Demo的目录，安装必要的软件包。
 
-``` $ cd typescript-react-demo
+``` 
 $ cd typescript-react-demo
 $ npm install
 ```
 
-### 3.打开演示。
+### 3. 打开演示。
 
 ```
-$ 打开。 /index.html
+$ open  /index.html
 ```
 
-### 修改Demo => 用webpack构建
+##  修改Demo => 用webpack构建
 
-### 1.在修改完".src/Hello.tsx "后执行以下命令。
+###  1.在修改完".src/Hello.tsx "后执行以下命令。
 
-``` $ npm run build
+``` 
 $ npm run build
-``` $ npm run build
+``` 
 
-如果你想通过监控#### 文件来构建webpack
+####  如果你想通过监控文件来构建webpack
 
-``` $ npm run watch
+``` 
 $ npm run watch
-``` $ npm run watch
+``` 
 
 ####  使用HMR时
 
@@ -54,10 +54,10 @@ $ npm run watch
 $ npm run server
 ```
 
-http://localhost:8080で確認
+http://localhost:8080 确认
 
 ###  2.打开演示
 
 ```
-$ 打开。 /index.html
+$ open /index.html
 ```
