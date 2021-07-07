@@ -1,54 +1,54 @@
 # TypeScript-React-Demo
 
-TypeScript で書いた React のデモ
+一个用TypeScript编写的React演示。
 
-## Demo
+## 演示
 
-テキストフォームに入力した名前を表示する Hello World。
+一个显示在文本表格中输入的名字的Hello World。
 
 https://maechabin.github.io/typescript-react-demo/
 
-## Demo のソースコード
+##演示源代码
 
 - [src/Hello.tsx](https://github.com/maechabin/typescript-react-demo/blob/master/src/Hello.tsx)
 - [index.html](https://github.com/maechabin/typescript-react-demo/blob/master/index.html)
 
-## Demo の確認
+## 检查演示。
 
-### 1. Demo のダウンロード（clone）
+### 1.下载演示（克隆）。
 
 ```
 $ git clone git@github.com:maechabin/typescript-react-demo.git typescript-react-demo
-```
+``$ git clone typescript-react-demo
 
-### 2. Demo を clone したディレクトリに移動して、必要なパッケージのインストール
+### 进入你克隆Demo的目录，安装必要的软件包。
 
-```
+``` $ cd typescript-react-demo
 $ cd typescript-react-demo
 $ npm install
-```
+``` ### 3.
 
-### 3. Demo を開く
-
-```
-$ open ./index.html
-```
-
-## Demo の修正 => webpack でビルド
-
-### 1. 「.src/Hello.tsx」を修正したら、以下のコマンドを実行
+###3.打开演示。
 
 ```
+$ 打开。 /index.html
+```
+
+###修改Demo => 用webpack构建
+
+###1.在修改完".src/Hello.tsx "后执行以下命令。
+
+``` $ npm run build
 $ npm run build
-```
+``` $ npm run build
 
-#### ファイルを監視して webpack をビルドする場合
+如果你想通过监控#### 文件来构建webpack
 
-```
+``` $ npm run watch
 $ npm run watch
-```
+``` $ npm run watch
 
-#### HMR を使用する場合
+#### 使用HMR时
 
 ```
 $ npm run server
@@ -56,8 +56,8 @@ $ npm run server
 
 http://localhost:8080で確認
 
-### 2. Demo を開く
+###2.打开演示
 
 ```
-$ open ./index.html
+$ 打开。 /index.html
 ```
