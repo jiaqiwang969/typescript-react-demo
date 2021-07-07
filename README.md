@@ -18,7 +18,7 @@ https://maechabin.github.io/typescript-react-demo/
 ### 1.下载演示（克隆）。
 
 ```
-$ git clone git@github.com:maechabin/typescript-react-demo.git typescript-react-demo
+$ git clone git@github.com:jiaqiwang969/typescript-react-demo.git typescript-react-demo
 ```
 
 ### 2. 进入你克隆Demo的目录，安装必要的软件包。
